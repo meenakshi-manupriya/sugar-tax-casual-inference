@@ -1,0 +1,6 @@
+#ignore file for Python projects
+.venv/
+__pycache__/
+.ipynb_checkpoints/
+.DS_Store
+.env
